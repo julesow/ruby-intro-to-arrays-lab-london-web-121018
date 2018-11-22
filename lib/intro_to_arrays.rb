@@ -11,6 +11,10 @@ end
 
 # indexing
 def first_element(array)
-  return array.first
+  array[0]
   
+end
+
+def third_element(array)
+  array[2]
 end
